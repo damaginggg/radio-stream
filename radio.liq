@@ -7,7 +7,5 @@ output.icecast(
   port=443,
   password="hackme",
   mount="/stream",
-  icy_metadata="true",
-  https=true,
   music
 )
